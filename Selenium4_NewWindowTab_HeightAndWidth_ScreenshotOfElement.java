@@ -15,6 +15,7 @@ import org.openqa.selenium.WindowType;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
+
 public class Selenium4_NewWindowTab_HeightAndWidth_ScreenshotOfElement {
 
 	public static void main(String[] args) throws IOException {
